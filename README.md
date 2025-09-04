@@ -1,18 +1,18 @@
 # Supply-Chain-Analysis
 I did a supply chain project using SQL where I checked revenue, suppliers, shipping, and customer details
 
-Supply Chain Analysis using SQL
-📌 Overview This project analyzes the supply chain operations of a Fashion & Beauty startup, using SQL. The dataset includes product, supplier, shipping, manufacturing, and customer details. The main goal was to gain insights into revenue, supplier performance, shipping efficiency, and overall supply chain effectiveness.
+**Supply Chain Analysis using SQL**
+Overview This project analyzes the supply chain operations of a Fashion & Beauty startup, using SQL. The dataset includes product, supplier, shipping, manufacturing, and customer details. The main goal was to gain insights into revenue, supplier performance, shipping efficiency, and overall supply chain effectiveness.
 
-⚙️Tools & Skills
+**Tools & Skills**
 
-SQL (PostgreSQL)
+-> SQL (PostgreSQL)
 
-Joins, Aggregate Functions
+-> Joins, Aggregate Functions
 
-Business Analytics with SQL
+-> Business Analytics with SQL
 
-📊 Key Analysis Performed
+**Key Analysis Performed**
 
 1)Total revenue and average price by product type.
 
@@ -32,7 +32,7 @@ Business Analytics with SQL
 
 9)Cost analysis by shipping routes.
 
-📈 Insights
+**Insights**
 
 1)Skincare is the top revenue generator (₹2,41,628).
 
@@ -48,12 +48,12 @@ Business Analytics with SQL
 
 7)Air transport shows the lowest defect rate (1.82%), while road transport is the worst (2.62%).
 
-📂 Project Files
+** Project Files**
 
- → SQL queries used for analysis.
+ -> SQL queries used for analysis.
 
- → Project presentation with insights.
+ -> Project presentation with insights.
 
-🚀 Outcome
+** Outcome**
 
 In this project, SQL helped to study the supply chain, find delays, improve shipping, and make the process easier.
