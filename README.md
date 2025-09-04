@@ -49,11 +49,11 @@ Overview This project analyzes the supply chain operations of a Fashion & Beauty
 
 7)Air transport shows the lowest defect rate (1.82%), while road transport is the worst (2.62%).
 
-**Project Files**
+**Project Files Links**
 
- -> SQL queries used for analysis.
+https://github.com/Himanshi-5/Supply-Chain-Analysis/blob/main/Supply_Chain_Analysis%20ppt.pptx 
 
- -> Project presentation with insights.
+ 
 
 **Outcome**
 
