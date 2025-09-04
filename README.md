@@ -53,7 +53,7 @@ Overview This project analyzes the supply chain operations of a Fashion & Beauty
 
 **PPT file->** https://github.com/Himanshi-5/Supply-Chain-Analysis/blob/main/Supply_Chain_Analysis%20ppt.pptx 
 **PDF Presentation File->** https://github.com/Himanshi-5/Supply-Chain-Analysis/blob/main/Supply_Chain_Analysis%20presentation.pdf
- SQL Query File-> https://github.com/Himanshi-5/Supply-Chain-Analysis/blob/main/supply%20chain%20query.sql
+** SQL Query File->** https://github.com/Himanshi-5/Supply-Chain-Analysis/blob/main/supply%20chain%20query.sql
 
 **Outcome**
 
